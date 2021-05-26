@@ -4,6 +4,9 @@
 
 	 *one of the most popular cli tool for exploiting sql injection 
 	and other sql vulnerabilities*
+	
+* #### nikto
+	*most popular webserver assessement tool
 
 * #### yersinia  
 
@@ -154,6 +157,10 @@
 * ####  burp
 
 	*local proxy, vulnerability scanner, and many more tools*
+	
+* ####  zap
+
+	*local proxy, vulnerability scanner, similar to burp*
 
 * ####  king phisher
 
