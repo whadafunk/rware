@@ -270,3 +270,6 @@
 	The project's goal is to create a framework to help you secure your web applications 
 	by finding and exploiting all web application vulnerabilities.*
 	
+* #### searchsploit
+* #### gobuster
+* #### recon-ng
